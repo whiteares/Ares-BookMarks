@@ -8018,6 +8018,9 @@
 
 2019-06-06 10:38 [简历在线创建修改工具-CV Compiler - Rock your tech resume](https://cvcompiler.com/)
 
+2026-09-14 09:30 [免费ATS简历检查-ResumeAI](https://withresumeai.com/) — Free ATS checker (3/day anon, 10/day free) + State of ATS 2026
+
+
 2017-06-24 19:58 [简历制作-JobCv.me](http://www.jobcv.me/)
 
 2017-06-24 20:07 [简历制作-Standard Resume](https://standardresume.co/)
